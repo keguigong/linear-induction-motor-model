@@ -51,7 +51,7 @@ from the flux equation, we got the flux state equation:
 
 ![](https://latex.codecogs.com/gif.latex?\dot{\psi_{r\beta}}=-R_ri_{r\beta}-R_rf(Q)(i_{s\beta}&plus;i_{r\beta})&plus;\omega_r\psi_{r\alpha})
 
-the S-Function model writted as `lim_model.m`.
+the S-Function model is written as `lim_model.m`.
 
 the simulink model is `lim_s_function.slx`.
 
